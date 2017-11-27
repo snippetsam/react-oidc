@@ -2,7 +2,7 @@
 
 ### Overview
 
-The project is a [React.js[(https://reactjs.org/)] sample of the [OpenID Connect Implicit Flow](http://openid.net/specs/openid-connect-core-1_0.html#ImplicitFlowAuth) with Ping Federate.
+The project is a [React.js](https://reactjs.org/) sample of the [OpenID Connect Implicit Flow](http://openid.net/specs/openid-connect-core-1_0.html#ImplicitFlowAuth) with Ping Federate.
 
 ### Installation
 
