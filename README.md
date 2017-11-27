@@ -21,5 +21,5 @@ Configuration for this sample is found at the top of the `App.js` file and is he
 
 This software is open sourced by Ping Identity but not supported commercially as such. Any questions/issues should go to the Github issues tracker or discuss on the [Ping Identity Developer Communities](https://community.pingidentity.com/collaborate). See also the DISCLAIMER file in this directory.
 
-[Ping Identity Developer Communities](https://community.pingidentity.com/collaborate): https://community.pingidentity.com/collaborate
-[Ping Identity Developer Site](https://developer.pingidentity.com/connect): https://developer.pingidentity.com/connect
+Ping Identity Developer Communities: https://community.pingidentity.com/collaborate
+Ping Identity Developer Site: https://developer.pingidentity.com/connect
